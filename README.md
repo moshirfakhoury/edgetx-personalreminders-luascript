@@ -48,7 +48,7 @@ It is designed to be simple, fast, and reliable, with a clean multi-page interfa
 - Click on the SYS button
 - Navigate to Global Functions
 - Add a new Function with the below settings
-- Trigger = ON
+- Trigger = 6POS1
 - Function = Lua Script
 - Value = rmd
 - Repeat = x1
