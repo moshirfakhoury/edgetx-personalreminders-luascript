@@ -34,7 +34,7 @@ It is designed to be simple, fast, and reliable, with a clean multi-page interfa
   - All data saved to data.txt
   - Automatically loaded on startup
 
-Installation:
+**Installation:**
 
 - Download the Personal Reminders ZIP file
 - Extract the contents of the ZIP file
@@ -43,7 +43,7 @@ Installation:
 - Copy Reminders folder and paste into your transmitter's /SCRIPTS/TOOLS folder
 - Copy rmd.lua and paste into your transmitter's /SCRIPTS/FUNCTIONS folder
 
-Transmitter Setup:
+**Transmitter Setup:**
 
 - Click on the SYS button
 - Navigate to Global Functions
