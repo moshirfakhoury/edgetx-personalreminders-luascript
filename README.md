@@ -53,3 +53,16 @@ It is designed to be simple, fast, and reliable, with a clean multi-page interfa
 - Value = rmd
 - Repeat = x1
 - Enable = True
+
+<img width="479" height="270" alt="image" src="https://github.com/user-attachments/assets/b2627b9e-04de-490e-81d1-6bf24c40b368" />
+
+<img width="476" height="270" alt="image" src="https://github.com/user-attachments/assets/b998db48-cd47-4593-9b3f-aa28e13e5c6e" />
+
+<img width="480" height="271" alt="image" src="https://github.com/user-attachments/assets/4788042a-02fd-47bf-8c7a-2b7b0469023a" />
+
+<img width="477" height="270" alt="image" src="https://github.com/user-attachments/assets/97df1013-bd1f-4854-bea7-6b709fc2d847" />
+
+
+
+
+
