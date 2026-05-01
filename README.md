@@ -14,8 +14,8 @@ It is designed to be simple, fast, and reliable, with a clean multi-page interfa
   - Fully editable text (20 characters)
   - Assign any date to any custom event
 - Smart Audio Alerts
-  - Plays “Happy Birthday” for your birthday
-  - Plays “You have a reminder” for all other events
+  - Plays a “Happy Birthday” message on your birthday
+  - Plays “Reminder Notification” for all other events
   - If both occur on the same day → plays both (in order)
 - Automatic Background Detection
   - Runs on transmitter startup
