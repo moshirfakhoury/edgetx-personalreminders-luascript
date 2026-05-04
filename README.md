@@ -33,6 +33,13 @@ It is designed to be simple, fast, and reliable, with a clean multi-page interfa
 - Persistent Storage
   - All data saved to data.txt
   - Automatically loaded on startup
+ 
+**Notes**
+
+- Dates must be entered in YYYYMMDD format
+- Only month and day are used for matching (year is ignored)
+- Alerts trigger once per power-on
+- Multiple reminders on the same day are supported
 
 **Installation:**
 
